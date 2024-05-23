@@ -1,4 +1,4 @@
-- 👋 Hi, I’m just an other coder :danger:
+- 👋 Hi, I’m just an other coder  :floppy_disk:
 - 👀 I’m in DevOps & learning Linux 4ever
 
 <!---

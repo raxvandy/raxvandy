@@ -1,6 +1,5 @@
-- 👋 Hi, I’m just an other coder :)
-- 👀 I’m interested in DevOps & 
-- 🌱 I’m currently learning Linux :)
+- 👋 Hi, I’m just an other coder :danger:
+- 👀 I’m in DevOps & learning Linux 4ever
 
 <!---
 raxvandy/raxvandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
